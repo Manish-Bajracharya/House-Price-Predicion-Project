@@ -5,7 +5,7 @@ The aim of the project is to build a machine learning model to predict price of 
 Predicting a house price is useful to determine whether it's been priced reasonably or to identify if buying that house will be a good investment or not.
  
 ## Objective
-To minimise the error between predicted price and real price. We will evaluate the model performance using mean squared erro and root squared of the mean squared error.
+To minimise the error between predicted price and real price. We will evaluate the model performance using mean squared error and root squared of the mean squared error.
  
 ## Process
 Firstly, we will be pre-processing the data, which consists of 3 steps :
